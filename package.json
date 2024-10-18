@@ -1,15 +1,15 @@
 {
-  "name": "meal-planner-app"
+"name": "meal-planner-app"
 "version": "1.0.0",
 "private": true,
 "scripts": {
-"dev": "next dev",
-"build": "next build && next export",
-"start": "next start"
+  "dev": "next dev",
+  "build": "next build && next export",
+  "start": "next start"
 },
-  "dependencies": {
-"next": "latest",
-"react": "latest",
-"react-dom": "latest"
+"dependencies": {
+  "next": "latest",
+  "react": "latest",
+  "react-dom": "latest"
   }
 }
